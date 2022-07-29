@@ -1,4 +1,4 @@
-Created an app using React-Native that allows users to place orders in (superficially) and rate different restaurants around the world. Used Firestore to store and retrieve past orders.
+A React-Native app that allows users to place orders in (superficially) and rate different restaurants around the world. Used Firestore to store and retrieve past orders.
 
 Implemented night mode and enabled effortless navigation between various app screens.
 
